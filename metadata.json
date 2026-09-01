@@ -1,0 +1,7 @@
+{
+  "name": "QuickDrop",
+  "description": "Fast, offline, and private device-to-device file sharing with liquid glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
